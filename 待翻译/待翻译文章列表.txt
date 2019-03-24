@@ -1,0 +1,4 @@
+待翻译文章列表.txt
+
+各位热心于PostgreSQL文章翻译的PGer，如果你们发现好的外文文章想推送给国内读者，但是自己没有时间翻译，可以把它们原文下载下来，上传到本目录中，让其他志愿者来翻译。
+为了便于管理待翻译文章，请您把这篇文章等级到待翻译文章列表中（https://github.com/chenhedui/PG-Articles/wiki/PostgreSQL%E6%96%87%E7%AB%A0%E7%BF%BB%E8%AF%91%E8%AF%B4%E6%98%8E），让所有人知晓文章的来源和贡献者。
